@@ -1,0 +1,5 @@
+The AWS Flow Framework is a collection of convenience libraries that make it faster and easier to build applications with Amazon Simple Workflow.
+
+Using the AWS Flow Framework, you write simple code and let the framework’s pre-built objects and classes handle the details of Amazon Simple Workflow APIs. The AWS Flow Framework takes care of creating and executing your application’s steps, keeps track of their progress, lets you define retry rules for when steps fail, and much more. Meanwhile, the Amazon Simple Workflow Service maintains your application’s execution state, hands out tasks to available workers, and keeps an audit history of all of your tasks.
+
+The AWS Flow Framework is Java open source, and developed and managed by AWS. You can use the links below to get libraries, source code, documentation, samples, and more.
